@@ -1,0 +1,14 @@
+1b) The Error rate for each Ensemble classifier is printed on the screen in the program.
+It is observed that ,the error rate is more for single classifier, on bagging the errror rate is 
+decreased for ensemble of 10 classifier , where as it increases slightly for ensemble of 50 and 100
+classifers , but still it performs better than base model.
+
+(As we are selecting random training data, the error rate is slighly different everytime we run the program)
+
+2b)The Error rate for each Ensemble classifier is printed on the screen in the program.
+It is observed that ,the error rate is more for single classifier, on applying boosting 
+for ensemble of 10 classifier the errorrate reduces but later on remains constant.
+
+
+
+  
